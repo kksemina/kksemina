@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I am Ksenia 👋
+
+#### About Me
+Data Scientist at Dell Technologies with 3 years of experience in Tech, Financial Services and Higher Ed industry. Skilled in storytelling through data visualization, forecasting modeling, statistical analysis, and project management. Outside of work I am also interested in Web3.
+
+Check out my Tableau Portfolio ⚡: https://public.tableau.com/app/profile/ksenia7036
+
+Follow me on Twitter 🕊️ : @KseniaSyomina
+
+Thanks for stopping by!
 
 <!--
 **kksemina/kksemina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
