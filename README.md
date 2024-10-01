@@ -5,8 +5,6 @@ Data Scientist at Dell Technologies with 4 years of experience in Tech, Financia
 
 Check out my Tableau Portfolio ⚡: https://public.tableau.com/app/profile/ksenia7036
 
-Follow me on Twitter 🕊️ : [@KseniaSyomina](https://twitter.com/KseniaSyomina)
-
 Thanks for stopping by!
 
 <!--
